@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EquiposSpinner</string>
+    <string name="nacional">S. Nacional</string>
+    <string name="equipo_b">Equipo B</string>
+    <string name="equipo_a">Equipo A</string>
+    <string-array name="jugadoresA">
+        <item>Jugador1A</item>
+        <item>Jugador2A</item>
+        <item>Jugador3A</item>
+        <item>Jugador4A</item>
+        <item>Jugador5A</item>
+    </string-array>
+    <string-array name="jugadoresB">
+        <item>Jugador1B</item>
+        <item>Jugador2B</item>
+        <item>Jugador3B</item>
+        <item>Jugador4B</item>
+        <item>Jugador5B</item>
+    </string-array>
+</resources>
