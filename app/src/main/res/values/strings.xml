@@ -3,7 +3,9 @@
     <string name="nacional">S. Nacional</string>
     <string name="equipo_b">Equipo B</string>
     <string name="equipo_a">Equipo A</string>
+    <string name="selecciona_opcion">Seleccione una opcion...</string>
     <string-array name="jugadoresA">
+        <item>Selecciona un jugador...</item>
         <item>Jugador1A</item>
         <item>Jugador2A</item>
         <item>Jugador3A</item>
@@ -11,6 +13,7 @@
         <item>Jugador5A</item>
     </string-array>
     <string-array name="jugadoresB">
+        <item>Selecciona un jugador...</item>
         <item>Jugador1B</item>
         <item>Jugador2B</item>
         <item>Jugador3B</item>
